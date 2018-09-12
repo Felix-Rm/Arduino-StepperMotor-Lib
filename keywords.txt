@@ -1,0 +1,5 @@
+StepperMotor	KEYWORD2
+Stepper	KEYWORD2
+attach	KEYWORD2
+stepCW	KEYWORD2
+stepCCW	KEYWORD2
