@@ -1,5 +1,29 @@
-StepperMotor	KEYWORD2
-Stepper	KEYWORD2
+#classes
+StepperMotor    KEYWORD1
+StepperSync	KEYWORD1
+Stepper	KEYWORD1
+
+#functions from Stepper
 attach	KEYWORD2
-stepCW	KEYWORD2
-stepCCW	KEYWORD2
+setSpeed	KEYWORD2
+setStepsPerRevolution	KEYWORD2
+setHoldingTorque	KEYWORD2
+
+getAngle	KEYWORD2
+getSteps	KEYWORD2
+
+rotateByAngle	KEYWORD2
+rotateBySteps	KEYWORD2
+rotateToAngle	KEYWORD2
+rotateToSteps	KEYWORD2
+
+move	KEYWORD2
+step	KEYWORD2
+torqueOff   KEYWORD2
+
+#functions from StepperSync
+add	KEYWORD2
+remove	KEYWORD2
+
+run	KEYWORD2
+runAll	KEYWORD2
