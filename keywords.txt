@@ -1,5 +1,5 @@
 #classes
-StepperMotor    KEYWORD1
+StepperMotor	KEYWORD1
 StepperSync	KEYWORD1
 Stepper	KEYWORD1
 
@@ -19,7 +19,7 @@ rotateToSteps	KEYWORD2
 
 move	KEYWORD2
 step	KEYWORD2
-torqueOff   KEYWORD2
+torqueOff	KEYWORD2
 
 #functions from StepperSync
 add	KEYWORD2
